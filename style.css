@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+    margin:0px;
+}
+.CH{
+    height:20px;
+    width:150px;
+}
+.Grade{
+    height:20px;
+    width:150px;
+}
+#Calculate{
+    padding:10px;
+    border:5px solid black;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
+#Calculate:hover{
+    background-color: cornflowerblue;
+    border:5px solid cornflowerblue;
+}
+.Block{
+    background-color: cornflowerblue;
+    padding: 5px;
+}
+#GPA{
+    height:20px;
+    width:300px;
+    
+}
+input[type="text"]
+{
+    text-decoration: none;
+    padding:5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+button
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
